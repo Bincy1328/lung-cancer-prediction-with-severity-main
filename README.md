@@ -112,14 +112,3 @@ For detailed insights and documentation, refer to:
 - **[Project Report (DOC)](demo/report.docx)**
 - **[Project Report (PDF)](demo/report.pdf)**
 
----
-
-## 🔥 Notes
-- For better performance, train the model with a **larger YOLOv8 variant** (e.g., `yolov8n.pt`).
-- If using **Google Colab**, set up a **CUDA-compatible runtime** before training.
-
-For any queries, feel free to contact me:
-📧 **Email:** k.gokulappduraikjgv@gmail.com  
-📞 **Phone:** 9025421765
-
-Happy Training! 🚀
